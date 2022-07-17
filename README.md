@@ -7,3 +7,6 @@
 Android architecture components
 viewBinding
 Coroutines
+- George Washington
+- John Adams
+- Thomas Jefferson
